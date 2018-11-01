@@ -33,6 +33,7 @@ A curated collection of awesome miniatures painting resources.
 [Website](https://www.benkomets.com/)
 [Patreon](https://www.patreon.com/ben_komets)
 [Facebook](https://www.facebook.com/Ben-Komets-Miniatures-584195438419033/)
+[Instagram](https://www.instagram.com/benkomets/)
 
 ### Jérémie Bonamant-Teboul
 [Website](http://jeremiebt.com/en/)
