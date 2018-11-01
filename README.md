@@ -2,6 +2,24 @@
 
 A curated collection of awesome miniatures painting resources.
 
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
+
+- [Awesome Miniatures Painting](#awesome-miniatures-painting)
+    - [Artists](#artists)
+        - [Angel Giraldez](#angel-giraldez)
+        - [Ben Komets](#ben-komets)
+        - [Jérémie Bonamant-Teboul](#jérémie-bonamant-teboul)
+        - [Matt Cexwish](#matt-cexwish)
+        - [Vince Venturella](#vince-venturella)
+    - [Techniques](#techniques)
+        - [Two-brush blending](#two-brush-blending)
+    - [Tutorials](#tutorials)
+    - [Theory](#theory)
+    - [Books](#books)
+        - [Figopedia: Color & Light, Theory & Practice](#figopedia-color--light-theory--practice)
+
+<!-- markdown-toc end -->
 
 ## Artists
 ### Angel Giraldez
@@ -55,8 +73,7 @@ Short and longer videos showing artists painting miniatures
 - [Horus Heresy Ultramarine](https://www.youtube.com/playlist?list=PL0_grDypO1do9GpvxHcZ17SyXvVFL4fYC) by Ben Komets. _glazing_, _layering_, _weathering_, _TMM_
 - [Nut Planets Shield Maiden](https://www.youtube.com/playlist?list=PL0_grDypO1dplsP74-qVPC_o1NcE7uo2u) by Ben Komets. _skin tone_, _female face_, _makeup_, _leather_, _loaded brush_, _wood_, _TMM_
 - [Stormcast Eternal](https://www.youtube.com/playlist?list=PL0_grDypO1do53axHnnPWA6b5mkcZ5Y7E) by Ben Komets. _gold NMM_, _steel NMM_
-- [Korghos Khul](https://www.youtube.com/playlist?list=PL0_grDypO1doLoA8jydpbh1Bchz_Ug58P) by Ben Komets. _skin tone_, _loaded brush_, _basing_, _cold gold NNM_, _wet blending_
-- [Cygnar Avenger Warjack](https://www.youtube.com/playlist?list=PL0_grDypO1drX4du_D-J_TG7I_T5ZKDJd) by Matt Cexwish. _airbrush_, _masking_, _weathering_, _silver TMM_, _gold TMM_
+- [Korghos Khul](https://www.youtube.com/playlist?list=PL0_grDypO1doLoA8jydpbh1Bchz_Ug58P) by Ben Komets. _skin tone_, _loaded brush_, _basing_, _cold gold NNM_, _wet blending_, _gold TMM_
 - [Horus the Warmaster](https://www.youtube.com/playlist?list=PL0_grDypO1dqfOtlzC_XcSSqThNgF6AuH) by Ben Komets. _black armor_, _loaded brush_, _cool NMM gold_, _osl_, _skin tone_, _face_
 
 
