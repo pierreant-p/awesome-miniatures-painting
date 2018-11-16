@@ -59,6 +59,11 @@ Two brush blending is the process of applying paint with one brush and featherin
 - [Two-Brush Blending tutorial by Studio McVey - part 1](https://www.youtube.com/watch?v=cw6QjE2a7A0)
 - [Two-Brush Blending tutorial by Studio McVey - part 2](https://www.youtube.com/watch?v=caY1iy_hKUc)
 
+### Loaded brush
+The loaded brush techniques consists in having to colors on the brush at the same time (usually some base color in the back of the brush and some highlight color on the tip). A sweeping motion is achieved directly to blend both colors directly on the miniature.
+
+- [Loaded brush tutorial by Pirate Monkey Painting](https://piratemonkeypainting.wordpress.com/2017/03/18/pirate-monkey-brushwork-loaded-brush/)
+
 <!-- ### Wet blending -->
 <!-- ### NNM -->
 <!-- ### TMM -->
